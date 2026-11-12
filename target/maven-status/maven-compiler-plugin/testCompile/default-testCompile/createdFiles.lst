@@ -1,0 +1,8 @@
+com\blooddonation\test\DonorMatchingAndResponseTest.class
+com\blooddonation\test\AdminAndNotificationManagementTest.class
+com\blooddonation\test\DonorManagementTest.class
+com\blooddonation\test\EndToEndWorkflowTest.class
+com\blooddonation\test\AuthenticationUserManagementTest.class
+com\blooddonation\test\DatabaseDAOTest.class
+com\blooddonation\test\BloodRequestManagementTest.class
+com\blooddonation\test\DonationHistoryManagementTest.class
